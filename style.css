@@ -39,18 +39,14 @@ nav {
     background-size: 152% 100%;
 }
 
-.header {
-    background: url(bg-hero-desktop.svg);
-}
-
-.content {
+.first-section {
     width: 100%;
+    background: url(bg-hero-desktop.svg);
 }
 
 .fs1 {
     float: left;
     width: 50%;
-
 }
 
 .getbtn {
@@ -64,3 +60,19 @@ nav {
     padding: 16px 40px;
 }
 
+.fs1a {
+    padding-top: 30px;
+    padding-left: 35px;
+    padding-bottom: 50px;
+    width: 70%;
+}
+
+.fs1-text1 {
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+
+.fs1-text2 {
+    font-weight: 400;
+    font-family: ;
+}
